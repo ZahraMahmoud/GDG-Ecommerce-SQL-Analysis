@@ -1,6 +1,7 @@
 # GDG-Ecommerce-SQL-Analysis
 ## Overview
-This project analyzes an e-commerce dataset containing 28K+ orders and 10K customers to evaluate revenue performance, customer behavior, and operational risks.
+This project analyzes an e-commerce dataset containing 28K+ orders and 10K customers to evaluate revenue performance, customer behavior, and operational risks.  
+The objective is to identify revenue drivers, detect potential risks (inventory and market dependency), and provide actionable recommendations to support decision-making.
 ## Tools Used
 MySQL (SQL queries & data analysis)  
 Power BI (interactive dashboard)
@@ -12,4 +13,5 @@ $9K Average Order Value (AOV)
 1.Interactive dashboard that reflects real business insights.  
 2.Executive Report that sums up results of MySQL analysis and the dashboard outcomes.
 ## Dataset
-The database schema and initial data script were provided by GDG instructors.
+The database schema and initial data script were provided by GDG instructors.  
+The database follows a relational schema connecting 7 tables (customers, orders, order details, products, calendar and categories.)
